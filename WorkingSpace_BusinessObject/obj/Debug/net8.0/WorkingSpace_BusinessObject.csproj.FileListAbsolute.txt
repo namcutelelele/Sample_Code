@@ -1,0 +1,14 @@
+D:\Study\SEP490\Project\WokingSpaceService\WorkingSpace_BusinessObject\bin\Debug\net8.0\WorkingSpace_BusinessObject.deps.json
+D:\Study\SEP490\Project\WokingSpaceService\WorkingSpace_BusinessObject\bin\Debug\net8.0\WorkingSpace_BusinessObject.dll
+D:\Study\SEP490\Project\WokingSpaceService\WorkingSpace_BusinessObject\bin\Debug\net8.0\WorkingSpace_BusinessObject.pdb
+D:\Study\SEP490\Project\WokingSpaceService\WorkingSpace_BusinessObject\obj\Debug\net8.0\WorkingSpace_BusinessObject.GeneratedMSBuildEditorConfig.editorconfig
+D:\Study\SEP490\Project\WokingSpaceService\WorkingSpace_BusinessObject\obj\Debug\net8.0\WorkingSpace_BusinessObject.AssemblyInfoInputs.cache
+D:\Study\SEP490\Project\WokingSpaceService\WorkingSpace_BusinessObject\obj\Debug\net8.0\WorkingSpace_BusinessObject.AssemblyInfo.cs
+D:\Study\SEP490\Project\WokingSpaceService\WorkingSpace_BusinessObject\obj\Debug\net8.0\WorkingSpace_BusinessObject.csproj.CoreCompileInputs.cache
+D:\Study\SEP490\Project\WokingSpaceService\WorkingSpace_BusinessObject\obj\Debug\net8.0\WorkingSpace_BusinessObject.dll
+D:\Study\SEP490\Project\WokingSpaceService\WorkingSpace_BusinessObject\obj\Debug\net8.0\refint\WorkingSpace_BusinessObject.dll
+D:\Study\SEP490\Project\WokingSpaceService\WorkingSpace_BusinessObject\obj\Debug\net8.0\WorkingSpace_BusinessObject.pdb
+D:\Study\SEP490\Project\WokingSpaceService\WorkingSpace_BusinessObject\obj\Debug\net8.0\ref\WorkingSpace_BusinessObject.dll
+D:\Study\SEP490\Project\WokingSpaceService\WorkingSpace_BusinessObject\bin\Debug\net8.0\WorkingSpace_BusinessObject.runtimeconfig.json
+D:\Study\SEP490\Project\WokingSpaceService\WorkingSpace_BusinessObject\obj\Debug\net8.0\WorkingSpace_BusinessObject.csproj.AssemblyReference.cache
+D:\Study\SEP490\Project\WokingSpaceService\WorkingSpace_BusinessObject\obj\Debug\net8.0\WorkingSpace_BusinessObject.genruntimeconfig.cache

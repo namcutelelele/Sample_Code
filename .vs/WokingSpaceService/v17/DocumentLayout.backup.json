@@ -1,0 +1,279 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Study\\SEP490\\Project\\WokingSpaceService\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{440E696D-ECE6-41AC-950F-54FABF1EBA72}|WorkingSpace_DataAccessLayer\\WorkingSpace_DataAccessLayer.csproj|d:\\study\\sep490\\project\\wokingspaceservice\\workingspace_dataaccesslayer\\datalayer\\workingspacedao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{440E696D-ECE6-41AC-950F-54FABF1EBA72}|WorkingSpace_DataAccessLayer\\WorkingSpace_DataAccessLayer.csproj|solutionrelative:workingspace_dataaccesslayer\\datalayer\\workingspacedao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{406555E8-A50F-446E-9E46-616D593B74BB}|WorkingSpace_API\\WorkingSpace_API.csproj|d:\\study\\sep490\\project\\wokingspaceservice\\workingspace_api\\controllers\\workingspacecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{406555E8-A50F-446E-9E46-616D593B74BB}|WorkingSpace_API\\WorkingSpace_API.csproj|solutionrelative:workingspace_api\\controllers\\workingspacecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{642C9C57-90B9-4D95-B3D7-F22EFF4E0651}|ExceptionHandling\\ExceptionHandling.csproj|d:\\study\\sep490\\project\\wokingspaceservice\\exceptionhandling\\globalerrorhandlingmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{642C9C57-90B9-4D95-B3D7-F22EFF4E0651}|ExceptionHandling\\ExceptionHandling.csproj|solutionrelative:exceptionhandling\\globalerrorhandlingmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{642C9C57-90B9-4D95-B3D7-F22EFF4E0651}|ExceptionHandling\\ExceptionHandling.csproj|d:\\study\\sep490\\project\\wokingspaceservice\\exceptionhandling\\apireturn.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{642C9C57-90B9-4D95-B3D7-F22EFF4E0651}|ExceptionHandling\\ExceptionHandling.csproj|solutionrelative:exceptionhandling\\apireturn.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA46C774-D384-4BF2-8755-7105B7084878}|WorkingSpace_Services\\WorkingSpace_Services.csproj|d:\\study\\sep490\\project\\wokingspaceservice\\workingspace_services\\workingspaceservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA46C774-D384-4BF2-8755-7105B7084878}|WorkingSpace_Services\\WorkingSpace_Services.csproj|solutionrelative:workingspace_services\\workingspaceservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA46C774-D384-4BF2-8755-7105B7084878}|WorkingSpace_Services\\WorkingSpace_Services.csproj|d:\\study\\sep490\\project\\wokingspaceservice\\workingspace_services\\iworkingspaceservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA46C774-D384-4BF2-8755-7105B7084878}|WorkingSpace_Services\\WorkingSpace_Services.csproj|solutionrelative:workingspace_services\\iworkingspaceservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{642C9C57-90B9-4D95-B3D7-F22EFF4E0651}|ExceptionHandling\\ExceptionHandling.csproj|d:\\study\\sep490\\project\\wokingspaceservice\\exceptionhandling\\customexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{642C9C57-90B9-4D95-B3D7-F22EFF4E0651}|ExceptionHandling\\ExceptionHandling.csproj|solutionrelative:exceptionhandling\\customexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51E64183-14B8-423F-8FFE-655ADA732FBE}|WorkingSpace_Repositories\\WorkingSpace_Repositories.csproj|d:\\study\\sep490\\project\\wokingspaceservice\\workingspace_repositories\\iworkingspacerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{51E64183-14B8-423F-8FFE-655ADA732FBE}|WorkingSpace_Repositories\\WorkingSpace_Repositories.csproj|solutionrelative:workingspace_repositories\\iworkingspacerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{440E696D-ECE6-41AC-950F-54FABF1EBA72}|WorkingSpace_DataAccessLayer\\WorkingSpace_DataAccessLayer.csproj|d:\\study\\sep490\\project\\wokingspaceservice\\workingspace_dataaccesslayer\\mydbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{440E696D-ECE6-41AC-950F-54FABF1EBA72}|WorkingSpace_DataAccessLayer\\WorkingSpace_DataAccessLayer.csproj|solutionrelative:workingspace_dataaccesslayer\\mydbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51E64183-14B8-423F-8FFE-655ADA732FBE}|WorkingSpace_Repositories\\WorkingSpace_Repositories.csproj|d:\\study\\sep490\\project\\wokingspaceservice\\workingspace_repositories\\workingspacerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{51E64183-14B8-423F-8FFE-655ADA732FBE}|WorkingSpace_Repositories\\WorkingSpace_Repositories.csproj|solutionrelative:workingspace_repositories\\workingspacerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0473D76-618B-4A84-8295-62F77194852F}|WorkingSpace_BusinessObject\\WorkingSpace_BusinessObject.csproj|d:\\study\\sep490\\project\\wokingspaceservice\\workingspace_businessobject\\models\\commonmistakecategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A0473D76-618B-4A84-8295-62F77194852F}|WorkingSpace_BusinessObject\\WorkingSpace_BusinessObject.csproj|solutionrelative:workingspace_businessobject\\models\\commonmistakecategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA46C774-D384-4BF2-8755-7105B7084878}|WorkingSpace_Services\\WorkingSpace_Services.csproj|d:\\study\\sep490\\project\\wokingspaceservice\\workingspace_services\\workingspace_services.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{FA46C774-D384-4BF2-8755-7105B7084878}|WorkingSpace_Services\\WorkingSpace_Services.csproj|solutionrelative:workingspace_services\\workingspace_services.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{406555E8-A50F-446E-9E46-616D593B74BB}|WorkingSpace_API\\WorkingSpace_API.csproj|d:\\study\\sep490\\project\\wokingspaceservice\\workingspace_api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{406555E8-A50F-446E-9E46-616D593B74BB}|WorkingSpace_API\\WorkingSpace_API.csproj|solutionrelative:workingspace_api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0473D76-618B-4A84-8295-62F77194852F}|WorkingSpace_BusinessObject\\WorkingSpace_BusinessObject.csproj|d:\\study\\sep490\\project\\wokingspaceservice\\workingspace_businessobject\\models\\account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A0473D76-618B-4A84-8295-62F77194852F}|WorkingSpace_BusinessObject\\WorkingSpace_BusinessObject.csproj|solutionrelative:workingspace_businessobject\\models\\account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{406555E8-A50F-446E-9E46-616D593B74BB}|WorkingSpace_API\\WorkingSpace_API.csproj|d:\\study\\sep490\\project\\wokingspaceservice\\workingspace_api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{406555E8-A50F-446E-9E46-616D593B74BB}|WorkingSpace_API\\WorkingSpace_API.csproj|solutionrelative:workingspace_api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "WorkingSpaceDAO.cs",
+              "DocumentMoniker": "D:\\Study\\SEP490\\Project\\WokingSpaceService\\WorkingSpace_DataAccessLayer\\DataLayer\\WorkingSpaceDAO.cs",
+              "RelativeDocumentMoniker": "WorkingSpace_DataAccessLayer\\DataLayer\\WorkingSpaceDAO.cs",
+              "ToolTip": "D:\\Study\\SEP490\\Project\\WokingSpaceService\\WorkingSpace_DataAccessLayer\\DataLayer\\WorkingSpaceDAO.cs",
+              "RelativeToolTip": "WorkingSpace_DataAccessLayer\\DataLayer\\WorkingSpaceDAO.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAQwDAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-18T00:15:27.93Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "WorkingSpaceController.cs",
+              "DocumentMoniker": "D:\\Study\\SEP490\\Project\\WokingSpaceService\\WorkingSpace_API\\Controllers\\WorkingSpaceController.cs",
+              "RelativeDocumentMoniker": "WorkingSpace_API\\Controllers\\WorkingSpaceController.cs",
+              "ToolTip": "D:\\Study\\SEP490\\Project\\WokingSpaceService\\WorkingSpace_API\\Controllers\\WorkingSpaceController.cs",
+              "RelativeToolTip": "WorkingSpace_API\\Controllers\\WorkingSpaceController.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAcwB4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-18T14:04:44.159Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "WorkingSpaceService.cs",
+              "DocumentMoniker": "D:\\Study\\SEP490\\Project\\WokingSpaceService\\WorkingSpace_Services\\WorkingSpaceService.cs",
+              "RelativeDocumentMoniker": "WorkingSpace_Services\\WorkingSpaceService.cs",
+              "ToolTip": "D:\\Study\\SEP490\\Project\\WokingSpaceService\\WorkingSpace_Services\\WorkingSpaceService.cs",
+              "RelativeToolTip": "WorkingSpace_Services\\WorkingSpaceService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-18T15:47:25.284Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "GlobalErrorHandlingMiddleware.cs",
+              "DocumentMoniker": "D:\\Study\\SEP490\\Project\\WokingSpaceService\\ExceptionHandling\\GlobalErrorHandlingMiddleware.cs",
+              "RelativeDocumentMoniker": "ExceptionHandling\\GlobalErrorHandlingMiddleware.cs",
+              "ToolTip": "D:\\Study\\SEP490\\Project\\WokingSpaceService\\ExceptionHandling\\GlobalErrorHandlingMiddleware.cs",
+              "RelativeToolTip": "ExceptionHandling\\GlobalErrorHandlingMiddleware.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAWwCcAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-18T17:05:45.541Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IWorkingSpaceService.cs",
+              "DocumentMoniker": "D:\\Study\\SEP490\\Project\\WokingSpaceService\\WorkingSpace_Services\\IWorkingSpaceService.cs",
+              "RelativeDocumentMoniker": "WorkingSpace_Services\\IWorkingSpaceService.cs",
+              "ToolTip": "D:\\Study\\SEP490\\Project\\WokingSpaceService\\WorkingSpace_Services\\IWorkingSpaceService.cs",
+              "RelativeToolTip": "WorkingSpace_Services\\IWorkingSpaceService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAsAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-18T15:47:45.166Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "APIReturn.cs",
+              "DocumentMoniker": "D:\\Study\\SEP490\\Project\\WokingSpaceService\\ExceptionHandling\\APIReturn.cs",
+              "RelativeDocumentMoniker": "ExceptionHandling\\APIReturn.cs",
+              "ToolTip": "D:\\Study\\SEP490\\Project\\WokingSpaceService\\ExceptionHandling\\APIReturn.cs",
+              "RelativeToolTip": "ExceptionHandling\\APIReturn.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-18T16:46:49.448Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CustomException.cs",
+              "DocumentMoniker": "D:\\Study\\SEP490\\Project\\WokingSpaceService\\ExceptionHandling\\CustomException.cs",
+              "RelativeDocumentMoniker": "ExceptionHandling\\CustomException.cs",
+              "ToolTip": "D:\\Study\\SEP490\\Project\\WokingSpaceService\\ExceptionHandling\\CustomException.cs",
+              "RelativeToolTip": "ExceptionHandling\\CustomException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwBIAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-18T16:57:26.787Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "MyDbContext.cs",
+              "DocumentMoniker": "D:\\Study\\SEP490\\Project\\WokingSpaceService\\WorkingSpace_DataAccessLayer\\MyDbContext.cs",
+              "RelativeDocumentMoniker": "WorkingSpace_DataAccessLayer\\MyDbContext.cs",
+              "ToolTip": "D:\\Study\\SEP490\\Project\\WokingSpaceService\\WorkingSpace_DataAccessLayer\\MyDbContext.cs",
+              "RelativeToolTip": "WorkingSpace_DataAccessLayer\\MyDbContext.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-18T00:13:29.954Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IWorkingSpaceRepository.cs",
+              "DocumentMoniker": "D:\\Study\\SEP490\\Project\\WokingSpaceService\\WorkingSpace_Repositories\\IWorkingSpaceRepository.cs",
+              "RelativeDocumentMoniker": "WorkingSpace_Repositories\\IWorkingSpaceRepository.cs",
+              "ToolTip": "D:\\Study\\SEP490\\Project\\WokingSpaceService\\WorkingSpace_Repositories\\IWorkingSpaceRepository.cs",
+              "RelativeToolTip": "WorkingSpace_Repositories\\IWorkingSpaceRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAsAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-18T15:35:12.752Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "WorkingSpaceRepository.cs",
+              "DocumentMoniker": "D:\\Study\\SEP490\\Project\\WokingSpaceService\\WorkingSpace_Repositories\\WorkingSpaceRepository.cs",
+              "RelativeDocumentMoniker": "WorkingSpace_Repositories\\WorkingSpaceRepository.cs",
+              "ToolTip": "D:\\Study\\SEP490\\Project\\WokingSpaceService\\WorkingSpace_Repositories\\WorkingSpaceRepository.cs",
+              "RelativeToolTip": "WorkingSpace_Repositories\\WorkingSpaceRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwBUAAAB/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-18T15:35:30.738Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "CommonMistakeCategory.cs",
+              "DocumentMoniker": "D:\\Study\\SEP490\\Project\\WokingSpaceService\\WorkingSpace_BusinessObject\\Models\\CommonMistakeCategory.cs",
+              "RelativeDocumentMoniker": "WorkingSpace_BusinessObject\\Models\\CommonMistakeCategory.cs",
+              "ToolTip": "D:\\Study\\SEP490\\Project\\WokingSpaceService\\WorkingSpace_BusinessObject\\Models\\CommonMistakeCategory.cs",
+              "RelativeToolTip": "WorkingSpace_BusinessObject\\Models\\CommonMistakeCategory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-18T17:56:18.235Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "WorkingSpace_Services",
+              "DocumentMoniker": "D:\\Study\\SEP490\\Project\\WokingSpaceService\\WorkingSpace_Services\\WorkingSpace_Services.csproj",
+              "RelativeDocumentMoniker": "WorkingSpace_Services\\WorkingSpace_Services.csproj",
+              "ToolTip": "D:\\Study\\SEP490\\Project\\WokingSpaceService\\WorkingSpace_Services\\WorkingSpace_Services.csproj",
+              "RelativeToolTip": "WorkingSpace_Services\\WorkingSpace_Services.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-09-18T17:24:28.883Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Account.cs",
+              "DocumentMoniker": "D:\\Study\\SEP490\\Project\\WokingSpaceService\\WorkingSpace_BusinessObject\\Models\\Account.cs",
+              "RelativeDocumentMoniker": "WorkingSpace_BusinessObject\\Models\\Account.cs",
+              "ToolTip": "D:\\Study\\SEP490\\Project\\WokingSpaceService\\WorkingSpace_BusinessObject\\Models\\Account.cs",
+              "RelativeToolTip": "WorkingSpace_BusinessObject\\Models\\Account.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-18T16:39:09.492Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Study\\SEP490\\Project\\WokingSpaceService\\WorkingSpace_API\\Program.cs",
+              "RelativeDocumentMoniker": "WorkingSpace_API\\Program.cs",
+              "ToolTip": "D:\\Study\\SEP490\\Project\\WokingSpaceService\\WorkingSpace_API\\Program.cs",
+              "RelativeToolTip": "WorkingSpace_API\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-18T15:54:27.408Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Study\\SEP490\\Project\\WokingSpaceService\\WorkingSpace_API\\appsettings.json",
+              "RelativeDocumentMoniker": "WorkingSpace_API\\appsettings.json",
+              "ToolTip": "D:\\Study\\SEP490\\Project\\WokingSpaceService\\WorkingSpace_API\\appsettings.json",
+              "RelativeToolTip": "WorkingSpace_API\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-09-18T14:08:21.47Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
